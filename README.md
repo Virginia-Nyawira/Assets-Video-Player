@@ -1,6 +1,7 @@
-# video_playerdemo
+# video_player App
 
-A new Flutter application.
+A Flutter application to play videos stored on local assets directory, with 
+high access to video playback
 
 ## Getting Started
 
